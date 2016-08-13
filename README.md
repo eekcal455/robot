@@ -18,9 +18,9 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/permag-ir/permag.ir.git
+git clone https://github.com/eekcal455/robot.git
 
-cd permag_bot
+cd robot
 
 chmod +x launch.sh
 
@@ -47,9 +47,5 @@ Then restart the bot.
 * * *
 
 ### Support and development
-
-https://telegram.me/permagChannel
-
-http://permag.ir
 
 
